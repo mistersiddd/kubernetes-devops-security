@@ -1,4 +1,4 @@
-# kubernetes-devops-security course
+# kubernetes-devops-security courses
 
 ## Fork and Clone this Repo
 
